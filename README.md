@@ -16,9 +16,9 @@ BroCierge was build at [GO-HACK](https://go-hack.hackerearth.com/), we were plac
 
 # BroConcierge in a nutshell:
 
-![SLIDE 1](https://github.com/EnKrypt/BroCierge/raw/master/presentation/001.jpg)
-![SLIDE 2](https://github.com/EnKrypt/BroCierge/raw/master/presentation/002.jpg)
-![SLIDE 3](https://github.com/EnKrypt/BroCierge/raw/master/presentation/003.jpg)
-![SLIDE 4](https://github.com/EnKrypt/BroCierge/raw/master/presentation/004.jpg)
-![SLIDE 5](https://github.com/EnKrypt/BroCierge/raw/master/presentation/005.jpg)
+![SLIDE 1](https://raw.githubusercontent.com/EnKrypt/BroCierge/master/presentation/0001.jpg)
+![SLIDE 2](https://raw.githubusercontent.com/EnKrypt/BroCierge/master/presentation/0002.jpg)
+![SLIDE 3](https://raw.githubusercontent.com/EnKrypt/BroCierge/master/presentation/0003.jpg)
+![SLIDE 4](https://raw.githubusercontent.com/EnKrypt/BroCierge/master/presentation/0004.jpg)
+![SLIDE 5](https://raw.githubusercontent.com/EnKrypt/BroCierge/master/presentation/0005.jpg)
 
